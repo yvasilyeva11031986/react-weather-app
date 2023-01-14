@@ -4,7 +4,7 @@ export default function Overview() {
   return (
     <div className="Overview">
       <div class="overview">
-        <h1 id="city"></h1>
+        <h1 id="city">Kyiv</h1>
         <ul>
           <li>
             Last updated: <span id="date"></span>
