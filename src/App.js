@@ -1,4 +1,3 @@
-import Styles from './Styles.css';
 import Search from './Search';
 import Conditions from './Conditions';
 import Footer from './Footer';
