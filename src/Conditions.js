@@ -14,7 +14,7 @@ export default function Conditions() {
             />
             <div class="d-flex">
               <strong id="temp"></strong>
-              <span class="units">
+              {/* <span class="units">
                 <a href="" id="celsius">
                   C
                 </a>{" "}
@@ -22,7 +22,7 @@ export default function Conditions() {
                 <a href="" id="farenhite">
                   F
                 </a>
-              </span>
+              </span> */}
             </div>
           </div>
         </div>
